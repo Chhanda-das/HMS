@@ -1,5 +1,5 @@
 import { useRef, useState } from "react";
-import "../styles/dashboard.css";
+import "../styles/Dashboard.css";
 
 const DataManagement = () => {
   /* ===== SAMPLE DATA (replace with API later) ===== */

@@ -1,5 +1,6 @@
 import { useState } from "react";
-import "../styles/dashboard.css";
+import "../styles/Dashboard.css";
+
 
 const Appointments = () => {
   const [appointments, setAppointments] = useState([
